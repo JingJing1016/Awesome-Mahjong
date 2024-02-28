@@ -13,7 +13,7 @@
 
 ### 常用网站
 
-* 免费看谱ai [mortal]([麻将 AI 工具 - 检讨牌谱，派遣个室 (ekyu.moe)](https://mjai.ekyu.moe/zh-cn.html))，[github项目地址](https://github.com/Equim-chan/mjai-reviewer)
+* 免费看谱ai [mortal](https://mjai.ekyu.moe/zh-cn.html)，[github项目地址](https://github.com/Equim-chan/mjai-reviewer)
 * 付费看谱ai [naga](https://naga.dmv.nico/naga_report/order_form/)
 
 * [雀魂牌谱屋](https://amae-koromo.sapk.ch/)，[github项目地址](https://github.com/SAPikachu/amae-koromo)
@@ -42,4 +42,11 @@
 * [MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer)，用于分析给出牌谱中每个玩家的和铳数据等
 
   ![](./img/analyzer示例.jpg)
+
+### 比赛场牌谱点数修改
+
+* [一个用gpt写的简单python脚本](./tool/comp2naga.py)，使用`pyinstaller -F`打包的[exe版本](./tool/comp2naga.exe)
+* 功能：将联赛谱转为平场谱跑naga，南场 -> 东场，四家分数 -> 25000
+* 输入：input.txt, json格式的联赛牌谱
+* 输出：output.txt, json格式的平场牌谱
 
