@@ -14,11 +14,21 @@
 ### 常用网站
 
 * 免费看谱ai [mortal](https://mjai.ekyu.moe/zh-cn.html)，[github项目地址](https://github.com/Equim-chan/mjai-reviewer)
+
+  * [相关插件](https://www.bilibili.com/read/cv24013028/)，b站魔方12139：显示恶手率，保存rating等数据到excel
+
 * 付费看谱ai [naga](https://naga.dmv.nico/naga_report/order_form/)
 
 * [雀魂牌谱屋](https://amae-koromo.sapk.ch/)，[github项目地址](https://github.com/SAPikachu/amae-koromo)
+
 * [天凤水表网](https://nodocchi.moe/)
-* [天风牌理](https://tenhou.net/2/)
+
+* [天凤牌理](https://tenhou.net/2/)
+
+  * [greasy fork插件-天鳳牌理好形表示](https://greasyfork.org/zh-CN/scripts/435111-天鳳牌理好形表示)，b站谷戻り
+
+    ![](./img/天凤牌理好型示例.jpg)
+
 
 ### naga相关工具
 
